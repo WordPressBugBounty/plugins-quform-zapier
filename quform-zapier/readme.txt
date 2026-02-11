@@ -3,7 +3,7 @@ Contributors: ThemeCatcher
 Donate link: https://www.themecatcher.net/#buy-us-a-coffee
 Tags: zapier, form builder, forms, quform
 Requires at least: 4.6
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 1.1.1
 Requires PHP: 5.2.4
 License: GPLv2 or later
